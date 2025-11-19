@@ -1,0 +1,5 @@
+virtual/
+__pycache__/
+CaobaApneaSueno.txt
+datos_apnea.csv
+columnas.txt
